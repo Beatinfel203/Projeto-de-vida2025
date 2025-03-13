@@ -1,8 +1,9 @@
 ::root {
 --cor-de-fundo: rgb(200, 73, 231);
---bordo: #960755;
---branco: #47dad2;
---botao-ativo:#7d1692;
+--bordo: #ff1194;
+--branco: #ffffff;
+--botao-ativo:#a421be;
+--botao-inativo:#7d1692;
 --botao-fundo: #ee02a7;
 }
 body{
@@ -18,3 +19,4 @@ body{
     max-width: 1200px;
     width: 100%;
 margin: 0 auto;
+}
