@@ -1,7 +1,7 @@
 ::root {
 --cor-de-fundo: rgb(200, 73, 231);
---bordo: #ff1194;
---branco: #8ffa15;
+--bordo: #e0208a;
+--branco: #88ff00;
 --botao-ativo:#a421be;
 --botao-inativo:#7d1692;
 --botao-fundo: #ee02a7;
@@ -19,4 +19,12 @@ body{
     max-width: 1200px;
     width: 100%;
 margin: 0 auto;
+}
+.titulo-principal{
+    text-align: center;
+    width:100%;
+    font-size: 40px;
+}
+.botao{
+    font-family: 'Times New Roman', Times, serif;
 }
